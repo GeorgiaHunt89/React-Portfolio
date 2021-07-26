@@ -25,7 +25,8 @@ This project displays my current React skills whilst simultaneously showcasing a
 
 ## Deployment Link
 
-https://georgiahunt89.github.io/React-Portfolio/
+Github: [React-Portfolio-GitHub](https://georgiahunt89.github.io/React-Portfolio/)<br>
+Heroku: [React-Portfolio-Heroku](https://gh-react-portfolio.herokuapp.com/)
 
 ## Application Walk-through Video
 
